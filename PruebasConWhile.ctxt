@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PruebasConWhile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PruebasConWhile\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ multiplesOfFive()
+comment1.text=\r\nImprima\ todos\ los\ m\u00FAltiplos\ de\ 5\ comprendidos\ entre\ 10\ y\ 95.\ \r\n
+comment2.params=
+comment2.target=void\ sumaEntre1y10()
+comment2.text=\r\n\ Sumar\ los\ valores\ comprendidos\ entre\ 1\ y\ 10\ e\ imprimir\ la\ suma\ despu\u00E9s\r\n\ de\ que\ el\ bucle\ haya\ finalizado\r\n
+comment3.params=a\ b
+comment3.target=void\ sum(int,\ int)
+comment3.text=\r\n\ Hacer\ un\ m\u00E9todo\ sum\ con\ un\ bucle\ while\ que\ sume\ todos\ los\ n\u00FAmeros\r\n\ comprendidos\ entre\ dos\ n\u00FAmeros\ a\ y\ b.\ Los\ valores\ de\ a\ y\ b\ pueden\r\n\ pasarse\ al\ m\u00E9todo\ sum\ como\ par\u00E1metros.\r\n
+comment4.params=n
+comment4.target=boolean\ isPrime(int)
+numComments=5
